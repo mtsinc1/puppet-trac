@@ -1,0 +1,19 @@
+{
+  "name": "mtsinc1-trac",
+  "version": "0.2.1",
+  "author": "mtsinc1",
+  "summary": "Puppet module for Trac",
+  "license": "Apache License, Version 2.0",
+  "source": "https://www.github.com/mtsinc1/puppet-trac",
+  "description": "This module installs and manages Trac with optional remote database. Check README for details.",
+  "project_page": "https://www.github.com/mtsinc1/puppet-trac",
+  "issues_url": "https://www.github.com/mtsinc1/puppet-trac/issues",
+  "dependencies": [
+    {"version_requirement":">=0.1.2","name":"puppetlabs/vcsrepo"},
+    {"version_requirement":">=1.0.0","name":"puppetlabs/concat"},
+    {"version_requirement":">=3.2.0","name":"puppetlabs/stdlib"},
+    {"version_requirement":">=3.2.0","name":"puppetlabs/postgresql"},
+    {"version_requirement":">=0.2.0","name":"puppetlabs/firewall"},
+    {"version_requirement":">=1.0.1","name":"puppetlabs/apache"}
+  ]
+}

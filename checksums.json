@@ -1,0 +1,17 @@
+{
+  "manifests/tracenv.pp": "7be31e0f59310f02a2858bd286651c92",
+  "manifests/db.pp": "87f5acb5e87a0f0a2c426c301aadae06",
+  "tests/postgres_init.pp": "442d5b1515e37f0c9322b92fbc8ee15d",
+  "manifests/logoimage.pp": "b1bc77a8a2b4b6c71f89a0821e970a44",
+  "templates/trac.ini.erb": "9197cb5757d79565df18c127afdf6b05",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "tests/git_init.pp": "0a418ae8751c44a5c1513815ddf3a01a",
+  "templates/trac.wsgi.erb": "6efb035316ea0b689bb466583292ae60",
+  "README.md": "e9e34b4be5a3b80247e492339347078f",
+  "manifests/params.pp": "8f35a6b2e2136a08a498a72ebe5d2834",
+  "manifests/repo.pp": "288a794b8dca58d6db8f256d2148dc22",
+  "manifests/init.pp": "3112b68c6d42673c0400a715b6bf3bfa",
+  "manifests/apache.pp": "77ad39c34f2547efcd3498faf33a686e",
+  "tests/init.pp": "4be23bec00a4d93df20cc40eb6e89c06",
+  "metadata.json": "d77be161c8fdee825937ddb26ba783f7"
+}
